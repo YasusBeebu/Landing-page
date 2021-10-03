@@ -1,0 +1,36 @@
+body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: rgb(31,41,55);
+    height: 72px;
+    
+}
+
+.cont1 {
+    background-color:rgb(31,41,55);
+    height: 500px;
+}
+
+.cont2 {
+    background-color: rgb(255,255,255);
+    height: 500px;
+}
+
+.cont3 {
+    background-color: rgb(229,231,235);
+    height: 500px;
+}
+.cont4 {
+    background-color: rgb(255,255,255);
+    height: 500px;
+}
+
+.footer {
+    background-color: rgb(31,41,55);
+    height: 72px;
+}
