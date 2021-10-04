@@ -97,11 +97,53 @@ p:first-child {
 
 
 /** CONT2 **/
-.cont2 {
-    background-color: rgb(255, 255, 255);
-    height: 500px;
+.cont2_text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bold;
+    margin-top: 30px;
 }
 
+.cont2 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.illustration_container {
+    display: flex;
+    gap: 40px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.illustration {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.illustration_img {
+    width: 150px;
+    height: 150px;
+    border-color:#3882F6;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 5px;
+    margin-top: 15px;
+}
+
+.illustration_text {
+    width: 150px;
+    padding-top: 15px;
+    
+}
 /** -------------------------------------------------------------------------------------- **/
 
 /** CONT3 **/
