@@ -60,7 +60,7 @@ body {
     width: 360px;
     justify-content: flex-end;
     height: 260px;
-    
+
 }
 
 .image_container {
@@ -85,8 +85,8 @@ p:first-child {
     border-radius: 10px;
     padding: 10px;
     width: 100px;
-    background-color: rgb(59,130,246);
-    color:  #E5E7eb;
+    background-color: rgb(59, 130, 246);
+    color: #E5E7eb;
     font-size: 14px;
     font-weight: bold;
     border-width: 1px;
@@ -132,7 +132,7 @@ p:first-child {
 .illustration_img {
     width: 150px;
     height: 150px;
-    border-color:#3882F6;
+    border-color: #3882F6;
     border-style: solid;
     border-radius: 20px;
     border-width: 5px;
@@ -142,8 +142,9 @@ p:first-child {
 .illustration_text {
     width: 150px;
     padding-top: 15px;
-    
+
 }
+
 /** -------------------------------------------------------------------------------------- **/
 
 /** CONT3 **/
@@ -161,10 +162,11 @@ p:first-child {
     width: 700px;
     font-size: 26px;
     font-style: italic;
-    font-weight: lighter ;
+    font-weight: lighter;
     color: #1f2937;
     gap: 20px;
 }
+
 .cont3_author {
     font-style: normal;
     font-size: 20px;
@@ -173,6 +175,7 @@ p:first-child {
     align-self: flex-end;
     margin-right: 20px;
 }
+
 /** -------------------------------------------------------------------------------------- **/
 
 /** CONT4 **/
@@ -190,7 +193,7 @@ p:first-child {
     align-items: center;
     border-radius: 10px;
     gap: 50px;
-    background-color: rgb(59,130,246);
+    background-color: rgb(59, 130, 246);
     height: 100px;
     width: 800px;
     color: white;
@@ -204,13 +207,15 @@ p:first-child {
 
 .cont4_text-2 {
     font-size: 14px;
-    color: rgb(193,210,237);
+    color: rgb(193, 210, 237);
 }
+
 .cont4_sign_up_button {
     color: white;
     border-color: rgb(229, 231, 235);
     border-width: 2px;
 }
+
 /** -------------------------------------------------------------------------------------- **/
 
 /** FOOTER **/
